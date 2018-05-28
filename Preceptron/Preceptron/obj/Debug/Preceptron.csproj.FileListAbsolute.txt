@@ -1,0 +1,7 @@
+G:\Programing\ML\Preceptron\Preceptron\obj\Debug\Preceptron.csprojResolveAssemblyReference.cache
+G:\Programing\ML\Preceptron\Preceptron\obj\Debug\Preceptron.csproj.CoreCompileInputs.cache
+G:\Programing\ML\Preceptron\Preceptron\bin\Debug\Preceptron.exe.config
+G:\Programing\ML\Preceptron\Preceptron\bin\Debug\Preceptron.exe
+G:\Programing\ML\Preceptron\Preceptron\bin\Debug\Preceptron.pdb
+G:\Programing\ML\Preceptron\Preceptron\obj\Debug\Preceptron.exe
+G:\Programing\ML\Preceptron\Preceptron\obj\Debug\Preceptron.pdb
