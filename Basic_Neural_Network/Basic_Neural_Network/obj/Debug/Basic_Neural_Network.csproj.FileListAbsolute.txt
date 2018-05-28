@@ -1,0 +1,7 @@
+G:\Programing\ML\Basic_Neural_Network\Basic_Neural_Network\bin\Debug\Basic_Neural_Network.exe.config
+G:\Programing\ML\Basic_Neural_Network\Basic_Neural_Network\bin\Debug\Basic_Neural_Network.exe
+G:\Programing\ML\Basic_Neural_Network\Basic_Neural_Network\bin\Debug\Basic_Neural_Network.pdb
+G:\Programing\ML\Basic_Neural_Network\Basic_Neural_Network\obj\Debug\Basic_Neural_Network.csprojResolveAssemblyReference.cache
+G:\Programing\ML\Basic_Neural_Network\Basic_Neural_Network\obj\Debug\Basic_Neural_Network.csproj.CoreCompileInputs.cache
+G:\Programing\ML\Basic_Neural_Network\Basic_Neural_Network\obj\Debug\Basic_Neural_Network.exe
+G:\Programing\ML\Basic_Neural_Network\Basic_Neural_Network\obj\Debug\Basic_Neural_Network.pdb
